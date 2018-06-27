@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: piano
+Build-Jdk: 10.0.1
+Implementation-Title: firstdemo
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: com.springstudy
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/firstdemo
+Created-By: Maven Integration for Eclipse
+
